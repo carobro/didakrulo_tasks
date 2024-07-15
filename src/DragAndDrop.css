@@ -1,0 +1,79 @@
+.drag-and-drop {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  .setup-container {
+    flex: 1;
+    flex-direction:row;
+    margin-right: 20px;
+  }
+  
+  .image-preview-container {
+    flex: 1;
+  }
+  
+  .image-container {
+    position: relative;
+    width: 600px;
+    height: 600px;
+    border: 1px solid #000;
+  }
+  
+  .background-image {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .drop-zone {
+    position: absolute;
+    width: 80px;
+    height: 40px;
+    border: 0px dashed #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(255, 255, 255, 0.0);
+  }
+  
+  
+  .draggable-items {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+  }
+  
+  .draggable-item {
+    width: 80px;
+    height: 40px;
+    border: 1px solid #000;
+    background-color: #ccc;
+    cursor: move;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .dropped-item {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .drop-zone-setup,
+  .draggable-item-setup {
+    margin: 10px 0;
+  }
+  
+  .drop-zone-setup input,
+  .draggable-item-setup input {
+    margin-left: 10px;
+  }
+  
+  .drop-zone-setup select {
+    margin-left: 10px;
+  }
+  
