@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/react_test/static/css/main.5246ed08.css",
-    "main.js": "/react_test/static/js/main.a86573ec.js",
-    "static/js/453.03783d55.chunk.js": "/react_test/static/js/453.03783d55.chunk.js",
-    "index.html": "/react_test/index.html",
-    "main.5246ed08.css.map": "/react_test/static/css/main.5246ed08.css.map",
-    "main.a86573ec.js.map": "/react_test/static/js/main.a86573ec.js.map",
-    "453.03783d55.chunk.js.map": "/react_test/static/js/453.03783d55.chunk.js.map"
+    "main.css": "/didakrulo_tasks/static/css/main.9bf7db48.css",
+    "main.js": "/didakrulo_tasks/static/js/main.2ca619d0.js",
+    "static/js/453.03783d55.chunk.js": "/didakrulo_tasks/static/js/453.03783d55.chunk.js",
+    "static/media/logo.png": "/didakrulo_tasks/static/media/logo.1e6db0f1ee88b5b5a2ad.png",
+    "index.html": "/didakrulo_tasks/index.html",
+    "main.9bf7db48.css.map": "/didakrulo_tasks/static/css/main.9bf7db48.css.map",
+    "main.2ca619d0.js.map": "/didakrulo_tasks/static/js/main.2ca619d0.js.map",
+    "453.03783d55.chunk.js.map": "/didakrulo_tasks/static/js/453.03783d55.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5246ed08.css",
-    "static/js/main.a86573ec.js"
+    "static/css/main.9bf7db48.css",
+    "static/js/main.2ca619d0.js"
   ]
 }
